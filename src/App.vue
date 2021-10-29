@@ -18,7 +18,7 @@ const changeTheme = (val: any) => {
 </script>
 
 <template>
-  <n-config-provider :theme="theme" :class="classTheme" class="container">
+  <n-config-provider :theme="theme" :class="classTheme" class="root">
     <ThemeSwitch @change="changeTheme" />
     <Home />
   </n-config-provider>
@@ -29,10 +29,8 @@ const changeTheme = (val: any) => {
   font-family: Lato;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  // text-align: center;
-  .container {
+  .root {
     min-height: 100vh;
-    padding: 80px;
   }
   .light-theme {
     color: #2c3e50;

@@ -1,0 +1,212 @@
+{
+  "planets": [
+    {
+      "level": 1,
+      "enova": 250,
+      "ingot": 50,
+      "point": 50,
+      "xanh": 75,
+      "do": 50
+    },
+    {
+      "level": 2,
+      "enova": 325,
+      "ingot": 65,
+      "point": 50,
+      "xanh": 95,
+      "do": 65
+    },
+    {
+      "level": 3,
+      "enova": 400,
+      "ingot": 80,
+      "point": 50,
+      "xanh": 120,
+      "do": 80
+    },
+    {
+      "level": 4,
+      "enova": 475,
+      "ingot": 95,
+      "point": 50,
+      "xanh": 145,
+      "do": 95
+    },
+    {
+      "level": 5,
+      "enova": 550,
+      "ingot": 110,
+      "point": 50,
+      "xanh": 165,
+      "do": 110
+    },
+    {
+      "level": 6,
+      "enova": 625,
+      "ingot": 125,
+      "point": 125,
+      "xanh": 190,
+      "do": 125
+    }
+  ],
+  "colector": [
+    {
+      "level": 1,
+      "enova": 2000,
+      "ingot": 50,
+      "point": 50
+    },
+    {
+      "level": 2,
+      "enova": 2600,
+      "ingot": 65,
+      "point": 65
+    },
+    {
+      "level": 3,
+      "enova": 3200,
+      "ingot": 80,
+      "point": 80
+    },
+    {
+      "level": 4,
+      "enova": 3800,
+      "ingot": 95,
+      "point": 95
+    },
+    {
+      "level": 5,
+      "enova": 4400,
+      "ingot": 110,
+      "point": 110
+    },
+    {
+      "level": 6,
+      "enova": 5000,
+      "ingot": 125,
+      "point": 125
+    }
+  ],
+  "boss": [
+    {
+      "level": 1,
+      "enova": 10000,
+      "ingot": 750,
+      "point": 1500
+    },
+    {
+      "level": 2,
+      "enova": 16000,
+      "ingot": 975,
+      "point": 1950
+    },
+    {
+      "level": 3,
+      "enova": 19000,
+      "ingot": 1200,
+      "point": 2400
+    },
+    {
+      "level": 4,
+      "enova": 21000,
+      "ingot": 1425,
+      "point": 2850
+    },
+    {
+      "level": 5,
+      "enova": 2500,
+      "ingot": 1650,
+      "point": 3300
+    },
+    {
+      "level": 6,
+      "enova": 33000,
+      "ingot": 1875,
+      "point": 3750
+    }
+  ],
+  "pvp": [
+    {
+      "level": 1,
+      "enova": 400,
+      "point": 50
+    },
+    {
+      "level": 2,
+      "enova": 440,
+      "point": 65
+    },
+    {
+      "level": 3,
+      "enova": 480,
+      "point": 80
+    },
+    {
+      "level": 4,
+      "enova": 520,
+      "point": 95
+    },
+    {
+      "level": 5,
+      "enova": 560,
+      "point": 110
+    },
+    {
+      "level": 6,
+      "enova": 600,
+      "point": 125
+    }
+  ],
+  "upgrade": [
+    {
+      "level": 1,
+      "cost": 0
+    },
+    {
+      "level": 2,
+      "cost": 3950
+    },
+    {
+      "level": 3,
+      "cost": 4950
+    },
+    {
+      "level": 4,
+      "cost": 5950
+    },
+    {
+      "level": 5,
+      "cost": 6950
+    },
+    {
+      "level": 6,
+      "cost": 7950
+    }
+  ],
+  "unlock": [
+    {
+      "level": 1,
+      "cost": 0
+    },
+    {
+      "level": 2,
+      "cost": 3900
+    },
+    {
+      "level": 3,
+      "cost": 5100
+    },
+    {
+      "level": 4,
+      "cost": 6300
+    },
+    {
+      "level": 5,
+      "cost": 7400
+    },
+    {
+      "level": 6,
+      "cost": 8600
+    }
+  ]
+}

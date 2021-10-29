@@ -3,7 +3,7 @@ import BaseStats from "./BaseStats.vue";
 </script>
 
 <template>
-  <div>
+  <div class="container mx-auto">
     <img alt="Vue logo" src="../assets/logo.png" class="logo" />
     <BaseStats />
   </div>
@@ -11,6 +11,6 @@ import BaseStats from "./BaseStats.vue";
 
 <style lang="scss">
 .logo {
-  margin: 0 auto 20px;
+  margin: 20px auto;
 }
 </style>

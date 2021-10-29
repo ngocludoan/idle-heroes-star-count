@@ -1,8 +1,20 @@
 50-65-80-95-110-125
 unlock: 3900-5100-6300-7400-8600
 finish: 1000-2000-3000-4000-5000-6000
-boss: na-na-na-1425
 
 - so luong e5
 - thu hoach / map
 - ngay con lai
+
+
+- Co vip: 15%
+- Mua pack: 30%
+
+80 total
+10 collecter
+50 woker
+20 empty
+
+659 (con 7 collet, 10 empty, 45 woker ) - het boss
+
+4-1-2-7-1
